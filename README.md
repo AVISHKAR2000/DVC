@@ -11,3 +11,15 @@ dvc repro
 '''
 dvc dag
 '''
+'''
+dvc add <file name>
+'''
+'''
+git add <file name>$$ git commit -m "file added successfully"
+'''
+'''
+dvc remote add myremote <path for dvcstore file path>
+'''
+'''
+dvc push
+'''
